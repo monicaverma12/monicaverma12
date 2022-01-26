@@ -12,13 +12,13 @@
 [![GitHub monicaverma12](https://img.shields.io/github/followers/monicaverma12?label=follow&style=social)](https://github.com/monicaverma12)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm engineering student. Love to code , exploring Data Science these days. I enjoy collaborating with people on works of similar interest. 
+💡 &nbsp; Hello everyone,I'm a professional coder . Love to code , exploring Data Science these days. I enjoy collaborating with people on works of similar interest. 
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
-✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
+✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels and cooking.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
 ✉️ &nbsp;You can email me at monica.verma251@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1K4-g2LlUJFHv-JzBtrBBSeBOUiRN1-iQ/view?usp=sharing) for more details about work experience.
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1Otbx7PIXD6-7HiaE1MSHuf0PF9kNEgjt/view?usp=sharing) for more details about work experience.
 
 -----
 ### 📫 &nbsp; How to reach me:
