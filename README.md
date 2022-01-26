@@ -24,10 +24,9 @@
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/avinash-singh-071b79175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/michael201199/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/monica-verma-63b237172/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:monica.verma251@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.hackerrank.com/avinash201199"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
+<a href="https://www.hackerrank.com/Monica_verma251"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
 
 
 -----  
@@ -40,21 +39,12 @@
 | :---:        |    :----   |  
 | [Dynamic Website](http://arisesociety.org/)   | Project on developing a fully working dynamic website using PHP and MySQL for the NGO.  [http://arisesociety.org/](http://arisesociety.org/)        | 
 | [Meme Generator](https://avinash201199.github.io/MemeGenerator/) | This is a React js project , using this website you can create famouse memes only by adding words and you cat download it to your system. |
-| [Tic Tac Toe](https://github.com/avinash201199/Python-Projects/blob/main/Tic_Tac_Toe.py) | A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does |
+| [Tic Tac Toe](https://github.com/monicaverma12/Tic-Tac-Toe) | A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does |
 | [Personal Portfolio](https://avinash201199.github.io/Portfolio/) | This is my personal personal-portfolio website. Have a look [https://avinash201199.github.io/Portfolio/](https://avinash201199.github.io/Portfolio/) |
 
 <hr>
 
-<h1 align="center">Repositories to contribute in Hacktoberfest 🤩</h1>
 
-| Repository Name      | Description | 
-| :---:        |    :----   |  
-| [Hacktoberfest Guide](https://github.com/avinash201199/Hacktoberfest-Guide)    | Beginner's guide to Hacktoberfest and contains list of repositories where you can contribute.
-| [To-Do-List](https://github.com/avinash201199/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
-| [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
-| [Competition List](https://github.com/avinash201199/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
-| [Free courses with certificate](https://github.com/avinash201199/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [Python-Projects](https://github.com/avinash201199/Python-projects-) | This repository contains Python project to contribute |
 
 
 
@@ -98,7 +88,7 @@
 
  </div>
 
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=monicaverma12&&show_icons=true&theme=dark" width="50%" />
+<img align="left" alt="Monica's Github Stats" src="https://github-readme-stats.vercel.app/api?username=monicaverma12&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaverma12&layout=compact&theme=dark" width="46%" />
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=monicaverma12&theme=xcode">
