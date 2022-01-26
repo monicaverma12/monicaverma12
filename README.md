@@ -37,10 +37,11 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [Dynamic Website](http://arisesociety.org/)   | Project on developing a fully working dynamic website using PHP and MySQL for the NGO.  [http://arisesociety.org/](http://arisesociety.org/)        | 
-| [Meme Generator](https://avinash201199.github.io/MemeGenerator/) | This is a React js project , using this website you can create famouse memes only by adding words and you cat download it to your system. |
+| [Rock Paper Scissors](https://github.com/monicaverma12/Rock-Paper-Scissors)   | rock paper scissors is a hand game for two or more players. Participants say “rock, paper, scissors” and then simultaneously form their hands into the shape of a rock (a fist), a piece of paper (palm facing downward), or a pair of scissors (two fingers extended).       | 
+| [Calculator](https://github.com/monicaverma12/calculator-with-python-OOPs) | Its a simple calculator in python using the OOPs concept. |
 | [Tic Tac Toe](https://github.com/monicaverma12/Tic-Tac-Toe) | A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does |
-| [Personal Portfolio](https://avinash201199.github.io/Portfolio/) | This is my personal personal-portfolio website. Have a look [https://avinash201199.github.io/Portfolio/](https://avinash201199.github.io/Portfolio/) |
+| [Movies recomendation generator](xxxxxxxxxxxxxxx) | This is a program that suggest movies to you based on your liking used by netflix, hotstar and many more [xxxxxxxxxxx](xxxxxxxxxxxxxxxx) |
+| [Chatbot](xxxxxxxxxxxxxxxxx) | This is a chatbot where people can chat with a computer and get result just like siri and alexa. [xxxxxxxxxxx](xxxxxxxxxxx) |
 
 <hr>
 
