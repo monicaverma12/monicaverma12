@@ -81,15 +81,3 @@
 
 
 
-<h1 align="center">Github Stats</h1>
-
-<div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=monicaverma12&theme=highcontrast)]
-
- </div>
-
-<img align="left" alt="Monica's Github Stats" src="https://github-readme-stats.vercel.app/api?username=monicaverma12&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaverma12&layout=compact&theme=dark" width="46%" />
-<br>
-<img src="https://activity-graph.herokuapp.com/graph?username=monicaverma12&theme=xcode">
