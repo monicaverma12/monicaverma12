@@ -41,7 +41,7 @@
 | [Calculator](https://github.com/monicaverma12/calculator-with-python-OOPs) | Its a simple calculator in python using the OOPs concept. |
 | [Tic Tac Toe](https://github.com/monicaverma12/Tic-Tac-Toe) | A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does |
 | [Movies recomendation generator](xxxxxxxxxxxxxxx) | This is a program that suggest movies to you based on your liking used by netflix, hotstar and many more [xxxxxxxxxxx](xxxxxxxxxxxxxxxx) |
-| [Body Pose detection](https://github.com/monicaverma12/body-pose-detection-/blob/main/pose_tracking_example.gif?raw=true) | Pose estimation is a computer vision technique to track the movements of a person or an object. This is usually performed by finding the location of key points for the given objects. [Code Link](https://github.com/monicaverma12/body-pose-detection-/blob/main/2bodymeasurements%20(2).ipynb) |
+| [Body Pose detection](https://github.com/monicaverma12/body-pose-detection-/blob/main/pose_tracking_example.gif?raw=true) | Pose estimation is a computer vision technique to track the movements of a person or an object. This is usually performed by finding the location of key points for the given objects. [Code Link](https://github.com/monicaverma12/body-pose-detection-/blob/main/body%20pose%20detection.ipynb) |
 
 <hr>
 
